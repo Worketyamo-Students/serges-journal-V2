@@ -25,7 +25,7 @@
    <ul>
      <li>Generation d'une clé public </li>
      <li>ajout de la clé public à mon compte GITHUB</li>
-     <li>Ensuite cloner notre repository github a notre editeur de code </li>
+     <li>Ensuite cloner notre repository github a notre editeur de code gi</li>
    </ul>
 
 </p>
