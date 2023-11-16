@@ -1,6 +1,6 @@
 <h1>Questions</h1>
 
-<p>1. pour versinner notre code nous avons besion de GIT</p>
+<p>1. pour versionner notre code nous avons besion de GIT</p>
 
 <p>2. outil permettant de collaborer avec le second developpeur: GITHUB</p>
 
@@ -21,14 +21,21 @@
 
 <p>7. les cles utilises en SSH: cle publique et cle privee</p>
 
-<p>8.Processus de connexion a GITHUB en utilisant  SSH:</p>
+<p>8.Processus de connexion a GITHUB en utilisant  SSH:
+   <ul>
+     <li>Generation d'une clé public </li>
+     <li>ajout de la clé public à mon compte GITHUB</li>
+     <li>Ensuite cloner notre repository github a notre editeur de code </li>
+   </ul>
+
+</p>
 <p>9. Difference entre un local repository et le remote repository
 local repositry: ensemble des historiques(git) enregistre dans une machine locale.
 remote repository: ensemble historiques enregistre sur des serveurs distants.</p>
 
 <h1>Exercice1 Pratique:1</h1>
 <p>role des differentes commandes suivantes: GIT init, git clone, git push
-    Git init: est utilise pour creer un nouveau depot GIT.
-    Git clone: est utilise pour la verification des depots. 
-    Git push: permet envoyer les modifications locales apportees a la branche principale.
+    Git init: est utilise pour creer un nouveau depot GIT. <br/>
+    Git clone: est utilise pour la verification des depots. <br/>
+    Git push: permet envoyer les modifications locales apportees a la branche principale.<br/>
 </P>
